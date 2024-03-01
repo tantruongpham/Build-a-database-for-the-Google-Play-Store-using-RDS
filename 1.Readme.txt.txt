@@ -1,0 +1,4 @@
+URL End Point: asm2-database-instance.cgizph1cdyfr.ap-southeast-1.rds.amazonaws.com
+Username: admin 
+Password: tantruong8868
+Database Name: depx304_asm2
